@@ -33,7 +33,7 @@ This Abalone game implementation in Godot includes various advanced features to 
 ## Getting Started
 
 To run the game, you will need Godot Engine version 3.4.4 or compatible. Follow these steps:
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine.
 2. Open Godot Engine and import the project by selecting the project.godot file.
 3. You can review and analyze your moves and those of your opponent using the Move History feature with left and right arrows.
 
